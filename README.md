@@ -1,6 +1,19 @@
-# Streambatch.io - Tutorials for Remote Sensing & Agriculture
-This resource is intended to provide valuable guidance, tools, and resources to anyone interested in working with remote sensing data and vegetation indices like the Normalized Difference Vegetation Index (NDVI).
+<img src="http://www.tammer.com/logo.png" width="300">
 
-[streambatch.io](streambatch.io) is a company that specializes in the processing of remote sensing data into valuable, analysis-ready metrics, such as NDVI. We've created this repository to serve as a hub for understanding the basics of these indices, and to provide practical examples of how to access and use open source data, such as Sentinel-2, via SpatioTemporal Asset Catalog (STAC).
+# Tutorials for Remote Sensing & Agriculture
 
-You can learn more at: https://www.streambatch.io/knowledge/ndvi-from-first-principles
+This repo is a collection of tutorials, examples and demos on the subject of remote sensing in agriculture. This repo is maintained by [streambatch.io](http://www.streambatch.io).
+
+Here you will find:
+
+### [ESA WorldCereal Tutorial.ipynb](https://github.com/Streambatch-IO/tutorials/blob/main/ESA%20WorldCereal%20Tutorial.ipynb)
+
+This Python notebook is the companion to our blog post [ESA WorldCereal - Getting Locations for Global Field-Level Monitoring](https://www.streambatch.io/knowledge/esa-worldcereal-global-crop-monitoring-at-field-scale).
+
+### [Sentinel-2 NDVI Tutorial.ipynb](https://github.com/Streambatch-IO/tutorials/blob/main/Sentinel-2%20NDVI%20Tutorial.ipynb)
+
+This Python notebook is the companion to our blog post [NDVI Time-Series from Sentinel-2 Imagery Using STAC](https://www.streambatch.io/knowledge/ndvi-from-sentinel-2-imagery-using-stac).
+
+### [api_demo.ipynb](https://github.com/Streambatch-IO/tutorials/blob/main/api_demo.ipynb)
+
+This Python notebook demonstrates how to use the Streambatch NDVI API. The Streambatch NDVI API delivers daily time series NDVI data for any location on Earth.
